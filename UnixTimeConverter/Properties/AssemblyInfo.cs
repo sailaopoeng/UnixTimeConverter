@@ -8,10 +8,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("UnixTimeConvertor")]
 [assembly: AssemblyDescription("Convertor Between UNIX <=> Human Readable Time")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("AZ Digital Pte Ltd")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("UnixTimeConvertor")]
-[assembly: AssemblyCopyright("Copyright © AZ Digital Pte Ltd 2017")]
-[assembly: AssemblyTrademark("AZ Digital Pte Ltd")]
+[assembly: AssemblyCopyright("MIT License")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
