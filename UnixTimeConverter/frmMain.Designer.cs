@@ -128,7 +128,7 @@
             // 
             // btnCopyInput
             // 
-            this.btnCopyInput.BackgroundImage = global::UnixTimeConvertor.Properties.Resources.copy_icon__3;
+            this.btnCopyInput.BackgroundImage = global::UnixTimeConverter.Properties.Resources.copy_icon__3;
             this.btnCopyInput.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnCopyInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCopyInput.Location = new System.Drawing.Point(12, 4);
@@ -141,7 +141,7 @@
             // 
             // btnPasteInput
             // 
-            this.btnPasteInput.BackgroundImage = global::UnixTimeConvertor.Properties.Resources.SoftwareIcons_59_128;
+            this.btnPasteInput.BackgroundImage = global::UnixTimeConverter.Properties.Resources.SoftwareIcons_59_128;
             this.btnPasteInput.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnPasteInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPasteInput.Location = new System.Drawing.Point(54, 4);
@@ -155,7 +155,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Image = global::UnixTimeConvertor.Properties.Resources.icon_disable;
+            this.button1.Image = global::UnixTimeConverter.Properties.Resources.icon_disable;
             this.button1.Location = new System.Drawing.Point(413, 49);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(36, 40);
